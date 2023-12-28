@@ -1,4 +1,4 @@
-## This is ATOM Notepad for Android. Fast, comfortable, minimalist. Using JSON data. You can use MySQL database. You can use remote PHP files to exchange data with the database.
+## This is ATOM Notepad for Android. Fast, comfortable, minimalist. Using JSON data. You can use MySQL database.
 
 
 ![note list](images/note_list.jpg) ![note list](images/note_view.jpg)
