@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ATOM Notepad</string>
+    <string name="new_note">New note</string>
+    <string name="back_to_list">Back to list</string>
+    <string name="save_the_note">Save the note</string>
+    <string name="title">Title:</string>
+    <string name="contents">Contents:</string>
+    <string name="note_list">Note list</string>
+    <string name="confirm_deletion">Confirm deletion</string>
+    <string name="question_about_deletion">DELETE A NOTE IRREVERSIBLY?</string>
+    <string name="delete_note">Delete note</string>
+    <string name="save_changes">Save changes</string>
+    <string name="edit_note">Edit note</string>
+    <string name="confirm">Confirm</string>
+</resources>
